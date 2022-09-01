@@ -1,1 +1,2 @@
-shell_permission
+#!/bin/bash
+shellpermimission
