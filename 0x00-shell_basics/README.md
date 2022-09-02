@@ -1,1 +1,1 @@
-longformat
+hiddenfiles
